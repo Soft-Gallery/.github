@@ -1,5 +1,5 @@
 # 🐼 Project Panda 🐼
-"Why is there a 'panda' in the name? Well, there's a sad story there.
+"Why is there a 'panda' in the name? Well, there's a sad story here.
 We don't get enough sleep and we have dark circles as a result, 
 and we are becoming more and more like pandas."
 
